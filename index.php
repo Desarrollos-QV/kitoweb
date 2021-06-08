@@ -408,7 +408,7 @@
                             data-paddingbottom="[0,0,0,0]"
                             data-paddingleft="[0,0,0,0]"
 
-                            style="z-index: 8; font-family:Roboto;"><a class="btn btn-rounded btn-large btn-pink scroll" href="#about">Order Now</a></div>
+                            style="z-index: 8; font-family:Roboto;"><a class="btn btn-rounded btn-large btn-pink scroll" href="#about">Registrarme</a></div>
                     </li>
                 </ul>
                 <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
@@ -491,13 +491,13 @@
                         <div class="feature-icon"><i class="lni-timer"></i></div>
                         <h4 class="mb-4 feature-head">Horario laboral</h4>
                         <div class="timing mb-3">
-                            <div class="mwf">Monday - Friday <span class="time-line"></span> 04.00 - 08.00</div>
+                            <div class="mwf">Lunes - Viernes <span class="time-line"></span> 04.00 - 08.00</div>
                         </div>
                         <div class="timing mb-3">
-                            <div class="mwf">Monday - Friday <span class="time-line"></span> 04.00 - 08.00</div>
+                            <div class="mwf">Lunes - Viernes <span class="time-line"></span> 04.00 - 08.00</div>
                         </div>
                         <div class="timing mb-3">
-                            <div class="mwf">Monday - Friday <span class="time-line"></span> 04.00 - 08.00</div>
+                            <div class="mwf">Lunes - Viernes <span class="time-line"></span> 04.00 - 08.00</div>
                         </div>
                     </div>
                     </div>
@@ -509,13 +509,13 @@
                                 <div class="feature-icon"><i class="lni-timer"></i></div>
                                 <h4 class="mb-4 feature-head">Horario laboral</h4>
                                 <div class="timing mb-3">
-                                    <div class="mwf">Monday - Friday <span class="time-line"></span> 04.00 - 08.00</div>
+                                    <div class="mwf">Lunes - Viernes <span class="time-line"></span> 04.00 - 08.00</div>
                                 </div>
                                 <div class="timing mb-3">
-                                    <div class="mwf">Monday - Friday <span class="time-line"></span> 04.00 - 08.00</div>
+                                    <div class="mwf">Lunes - Viernes <span class="time-line"></span> 04.00 - 08.00</div>
                                 </div>
                                 <div class="timing mb-3">
-                                    <div class="mwf">Monday - Friday <span class="time-line"></span> 04.00 - 08.00</div>
+                                    <div class="mwf">Lunes - Viernes <span class="time-line"></span> 04.00 - 08.00</div>
                                 </div>
                             </div>
                         </div>
@@ -537,8 +537,8 @@
                             <h2 class="pb-0">Servimos la mejor <span class="family">comida</span> en la ciudad</h2>
                         </div>
                         <div class="col-md-7 ml-md-4 pl-md-2">
-                            <p class="mb-4">Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus. Nam porttitor justo sed mi finibus, vel tristique risus faucibus.</p>
-                            <p>Curabitur mollis bibendum luctus. Duis suscipit vitae dui sed suscipit. Vestibulum auctor nunc vitae diam eleifend, in maximus metus sollicitudin. Quisque vitae sodales lectus..</p>
+                            <p class="mb-4">Disfruta de delciosos platillos, ofertas y promociones únicas en la aplicación Kito App.</p>
+                            <p>Comida de los mejores restaurantes <span class="family">hasta la puerta de tu hogar.</span></p>
                         </div>
                     </div>
                 </div>
@@ -557,17 +557,19 @@
                         <div class="col-lg-6">
                             <div class="skills alt-font">
                                 <div class="prog-item">
-                                    <p>Fresh & Organic</p>
-                                    <div class="skills-progress"><span class="bar-light" data-value="88%"></span></div>
+                                    <p>Velocidad</p>
+                                    <div class="skills-progress"><span class="bar-light" data-value="99%"></span></div>
                                 </div>
                                 <div class="prog-item">
-                                    <p>Easy Reservation</p>
-                                    <div class="skills-progress"><span class="bar-dark" data-value="78%"></span></div>
+                                    <p>Seguridad</p>
+                                    <div class="skills-progress"><span class="bar-dark" data-value="99%"></span></div>
                                 </div>
+                                <!-- 
                                 <div class="prog-item mb-lg-0">
-                                    <p>Quality Cuisine</p>
-                                    <div class="skills-progress"><span class="bar-light" data-value="94%"></span></div>
+                                    <p>Calidad</p>
+                                    <div class="skills-progress"><span class="bar-light" data-value="100%"></span></div>
                                 </div>
+                                -->
                             </div>
                         </div>
 
@@ -576,8 +578,8 @@
                         <div class="col-lg-6">
                             <div class="skills alt-font">
                                 <div class="prog-item">
-                                    <p>Professional Staff</p>
-                                    <div class="skills-progress"><span class="bar-dark" data-value="85%"></span></div>
+                                    <p>Calidad</p>
+                                    <div class="skills-progress"><span class="bar-dark" data-value="100%"></span></div>
                                 </div>
                                 <div class="prog-item">
                                     <p>24/7 food Delivery</p>
@@ -596,12 +598,13 @@
 
     <!-- Appointment -->
     <section id="reservation" class="form-bg parallax parallaxie">
+        <div class="bg-overlay bg-color"></div>
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
                     <div class="appointment-box">
 
-                        <div class="form-title"><h2>Trabaja con nosotros</h2></div>
+                        <div class="form-title"><h2>Trabaja en <span class="family">Kito App</span></h2></div>
                         <div class="form-para">
                             <p>
                                 Regístrate y comienza a trabajar con nosotros, obten un impacto en tus ventas y consigue clientes potenciales de una manera mas rápida.
@@ -615,11 +618,12 @@
                                 <div class="col-md-12">
                                     <div class="row">
                                         <div class="col-md-6 mb-3">
-                                            <input type="text" class="form-control m-mb-20" required="" placeholder="Name" name="userName">
+                                            <input type="text" class="form-control m-mb-20" required="" placeholder="Nombre" name="userName">
                                         </div>
                                         <div class="col-md-6 mb-3">
                                             <input type="text" class="form-control m-mb-20" required="" placeholder="Email" name="userEmail">
                                         </div>
+                                        <!-- 
                                         <div class="col-md-6 mb-3">
                                             <div class="position-relative m-mb-20">
 
@@ -647,16 +651,17 @@
                                                 </select>
                                             </div>
                                         </div>
-
+                                        -->
                                         <div class="col-md-12">
-                                            <textarea class="message form-control m-mb-20 pt-2" placeholder="Message:" name="userMessage"></textarea>
+                                            <textarea class="message form-control m-mb-20 pt-2" placeholder="Comentario:" name="userMessage"></textarea>
                                         </div>
 
                                     </div>
+
                                     <div class="row">
                                         <div class="col-md-12 text-center text-md-right">
                                             <button type="button" class="contact_btn mt-3 btn btn-rounded btn-large btn-pink fadeInDown-slide animated  text-uppercase">
-                                                Submit
+                                                Registro
                                             </button>
                                         </div>
                                     </div>
@@ -690,7 +695,7 @@
 
 
                         <div class="text feature-txt ">
-                            <h4 class="feature-heading">Cutlery</h4>
+                            <h4 class="feature-heading">Comida corrida</h4>
                             <p>Phasellus eu scelerisque ligula. Pellentesque sollicitudin quis orci laoreet vehicula.</p>
                         </div>
 
@@ -712,7 +717,7 @@
                     <span class="icon-2">
             <i aria-hidden="true" class="lni-cake"></i></span>
                         <div class="text feature-txt">
-                            <h4 class="feature-heading">Cake</h4>
+                            <h4 class="feature-heading">Pastelería</h4>
                             <p>Phasellus eu scelerisque ligula. Pellentesque sollicitudin quis orci laoreet vehicula.</p>
                         </div>
 
@@ -721,7 +726,7 @@
                 <span class="icon">
             <i aria-hidden="true" class="lni-coffee-cup"></i></span>
                         <div class="text feature-txt">
-                            <h4 class="feature-heading">Tea & Coffee</h4>
+                            <h4 class="feature-heading">Cafetería</h4>
                             <p>Duis imperdiet convallis lorem. Sed efficitur lacus eget purus mattis, ac mollis justo porttitor.</p>
                         </div>
 
@@ -735,7 +740,7 @@
             <i aria-hidden="true" class="lni-service"></i></span>
 
                         <div class="text feature-txt">
-                            <h4 class="feature-heading">Services</h4>
+                            <h4 class="feature-heading">Comida</h4>
                             <p>Proin feugiat ex pharetra neque vestibulum consectetur. Donec non turpis et leo luctus.</p>
                         </div>
 
@@ -746,7 +751,7 @@
             <i aria-hidden="true" class="lni-fresh-juice"></i></span>
 
                         <div class="text feature-txt">
-                            <h4 class="feature-heading">Fresh Juices</h4>
+                            <h4 class="feature-heading">Juguería y coctelería</h4>
                             <p>Lorem ipsum dolor sit amet, consectetur elit. Curabitur at blandit duiut consequat ex.</p>
                         </div>
 
@@ -767,7 +772,7 @@
                     <div class="serial-box">
                         <span class="count">1538</span>
                         <div class="count-line "></div>
-                        <p >Happy Clients</p>
+                        <p>Clientes satisfechos</p>
                     </div>
                 </div>
 
@@ -775,7 +780,7 @@
                     <div class="serial-box">
                         <span class="count">1006</span>
                         <div class="count-line "></div>
-                        <p>Cooked Items</p>
+                        <p>Usuarios</p>
                     </div>
 
                 </div>
@@ -784,7 +789,7 @@
                     <div class="serial-box">
                         <span class="count">2115</span>
                         <div class="count-line "></div>
-                        <p>Food Delivered</p>
+                        <p>Entregas</p>
                     </div>
 
                 </div>
@@ -793,7 +798,7 @@
                     <div class="serial-box mb-0">
                         <span class="count">179</span>
                         <div class="count-line "></div>
-                        <p>Cups Of Coffee</p>
+                        <p>Vendedores</p>
                     </div>
 
                 </div>
@@ -814,11 +819,11 @@
                         </div>
                     </div>
                     <div class="pointer nav nav-pills mb-4 mb-md-4 d-flex justify-content-center filtering">
-                        <span data-filter="*" class="nav-link active">All</span>
-                        <span class="nav-link" data-filter=".surgery">Breakfast</span>
-                        <span class="nav-link" data-filter=".clinical">Lunch</span>
-                        <span class="nav-link" data-filter=".operations">Dinner</span>
-                        <span class="nav-link" data-filter=".patients">Desserts</span>
+                        <span data-filter="*" class="nav-link active">Todo</span>
+                        <span class="nav-link" data-filter=".surgery">Desayuno</span>
+                        <span class="nav-link" data-filter=".clinical">Comida</span>
+                        <span class="nav-link" data-filter=".operations">Cena</span>
+                        <span class="nav-link" data-filter=".patients">Postres</span>
                     </div>
 
                     <ul class="da-thumbs gallery">
@@ -827,7 +832,7 @@
                             <div class="overlay">
                                 <a href="restaurant/img/portfolio-1.jpg" class="text-center" data-fancybox="images">
                                     <div class="search-icon"><i class="fa fa-search"></i> </div>
-                                    <h4 class="">Lunch</h4>
+                                    <h4 class="">Desayuno</h4>
                                 </a>
                             </div>
                         </li>
@@ -836,7 +841,7 @@
                             <div class="overlay">
                                 <a href="restaurant/img/portfolio-2.jpg" class="text-center" data-fancybox="images">
                                     <div class="search-icon"><i class="fa fa-search"></i> </div>
-                                    <h4 class="">Breakfast</h4>
+                                    <h4 class="">Comida</h4>
                                 </a>
                             </div>
                         </li>
@@ -845,7 +850,7 @@
                             <div class="overlay">
                                 <a href="restaurant/img/portfolio-3.jpg" class="text-center" data-fancybox="images">
                                     <div class="search-icon"><i class="fa fa-search"></i> </div>
-                                    <h4 class="">Dinner</h4>
+                                    <h4 class="">Cena</h4>
                                 </a>
                             </div>
                         </li>
@@ -854,7 +859,7 @@
                             <div class="overlay">
                                 <a href="restaurant/img/portfolio-4.jpg" class="text-center" data-fancybox="images">
                                     <div class="search-icon"><i class="fa fa-search"></i> </div>
-                                    <h4 class="">Breakfast</h4>
+                                    <h4 class="">Desayuno</h4>
                                 </a>
                             </div>
                         </li>
@@ -863,7 +868,7 @@
                             <div class="overlay">
                                 <a href="restaurant/img/portfolio-5.jpg" class="text-center" data-fancybox="images">
                                     <div class="search-icon"><i class="fa fa-search"></i> </div>
-                                    <h4 class="">Lunch</h4>
+                                    <h4 class="">Comida</h4>
                                 </a>
                             </div>
                         </li>
@@ -873,7 +878,7 @@
                             <div class="overlay">
                                 <a href="restaurant/img/portfolio-6.jpg" class="text-center" data-fancybox="images">
                                     <div class="search-icon"><i class="fa fa-search"></i> </div>
-                                    <h4 class="">Dessert</h4>
+                                    <h4 class="">Cena</h4>
                                 </a>
                             </div>
                         </li>
@@ -889,9 +894,8 @@
         <div class="container">
             <div class="row">
                 <div class="test">
-                <div class="testimonial-title"><h2 class="text-white">Happy Customer</h2></div>
-                <div class="testimonial-subtitle"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in velit dolor.
-                    Vivamus gravida, neque nec interdum cursus, erat ligula.</p></div>
+                <div class="testimonial-title"><h2 class="text-white">Clientes satisfechos</h2></div>
+                <div class="testimonial-subtitle"><p>Conoce lo que dicen sobre nosotros.</p></div>
                 </div>
             </div>
 
@@ -901,86 +905,80 @@
                             <!--testimonial item-->
                     <div class="testimonial-item item">
                                 <i class="fa fa-quote-left testimonial-icon gradient-text1"></i>
-                                <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in velit dolor.
-                                    Vivamus gravida, neque nec interdum cursus, erat ligula porta nibh.
+                                <p class="mb-4">Excelente app, me gustan mucho sus ofertas y sus precios son muy buenos.
                                 </p>
 
                                 <!--Image-->
                                 <div class="testimonial-image">
-                                    <img src="restaurant/img/testimonial-1.png" alt="image">
+                                    <img src="restaurant/img/UserKitoAppMale.svg" alt="image">
                                 </div>
-                                <h5 class="font-weight-500 main-font pink">David Gover</h5>
-                                <span class="destination main-font">Newyork, USA</span>
+                                <h5 class="font-weight-500 main-font pink">Usuario anonimo</h5>
+                             <!--   <span class="destination main-font">Newyork, USA</span> -->
                             </div>
                     <!--testimonial item-->
                     <div class="testimonial-item item">
                         <i class="fa fa-quote-left testimonial-icon gradient-text1"></i>
-                        <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in velit dolor.
-                            Vivamus gravida, neque nec interdum cursus, erat ligula porta nibh.
+                        <p class="mb-4">Increible, la recomiendo mucho, siempre son puntuales y los productos de la app son muy buenos.
                         </p>
 
                         <!--Image-->
                         <div class="testimonial-image">
-                            <img src="restaurant/img/testimonial-2.png" alt="image">
+                            <img src="restaurant/img/UserKitoAppFemale.svg" alt="image">
                         </div>
-                        <h5 class="font-weight-500 main-font pink">Jessica Briany</h5>
-                        <span class="destination main-font">Florida, USA</span>
+                        <h5 class="font-weight-500 main-font pink">Usuario anonimo</h5>
+                      <!--  <span class="destination main-font">Florida, USA</span> -->
                     </div>
                     <!--testimonial item-->
                     <div class="testimonial-item item">
                         <i class="fa fa-quote-left testimonial-icon gradient-text1"></i>
-                        <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in velit dolor.
-                            Vivamus gravida, neque nec interdum cursus, erat ligula porta nibh.
+                        <p class="mb-4">Sin duda la recomiendo mucho, me encanta que sea tan fácil de usar.
                         </p>
 
                         <!--Image-->
                         <div class="testimonial-image">
-                            <img src="restaurant/img/testimonial-3.png" alt="image">
+                            <img src="restaurant/img/UserKitoAppMale.svg" alt="image">
                         </div>
-                        <h5 class="font-weight-500 main-font pink">Albert Joseph</h5>
-                        <span class="destination main-font">London, USA</span>
+                        <h5 class="font-weight-500 main-font pink">Usuario anonimo</h5>
+                        <!-- <span class="destination main-font">London, USA</span> -->
                     </div>
                     <!--testimonial item-->
                     <div class="testimonial-item item">
                         <i class="fa fa-quote-right testimonial-icon gradient-text1"></i>
-                        <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in velit dolor.
-                            Vivamus gravida, neque nec interdum cursus, erat ligula porta nibh.
+                        <p class="mb-4">La app me encanta, definitivamente los recomiendo mucho.
                         </p>
 
                         <!--Image-->
                         <div class="testimonial-image">
-                            <img src="restaurant/img/testimonial-1.png" alt="image">
+                            <img src="restaurant/img/UserKitoAppFemale.svg" alt="image">
                         </div>
-                        <h5 class="font-weight-500 main-font pink">David Gover</h5>
-                        <span class="destination main-font">Newyork, USA</span>
+                        <h5 class="font-weight-500 main-font pink">Usuario anonimo</h5>
+                      <!--  <span class="destination main-font">Newyork, USA</span> -->
                     </div>
                     <!--testimonial item-->
                     <div class="testimonial-item item">
                         <i class="fa fa-quote-right testimonial-icon gradient-text1"></i>
-                        <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in velit dolor.
-                            Vivamus gravida, neque nec interdum cursus, erat ligula porta nibh.
+                        <p class="mb-4">Es genial que tengan promociones tan atractivas y a precios tan excelentes.
                         </p>
 
                         <!--Image-->
                         <div class="testimonial-image">
-                            <img src="restaurant/img/testimonial-1.png" alt="image">
+                            <img src="restaurant/img/UserKitoAppMale.svg" alt="image">
                         </div>
-                        <h5 class="font-weight-500 main-font pink">David Gover</h5>
-                        <span class="destination main-font">Newyork, USA</span>
+                        <h5 class="font-weight-500 main-font pink">Usuario anonimo</h5>
+                        <!--<span class="destination main-font">Newyork, USA</span>-->
                     </div>
                     <!--testimonial item-->
                     <div class="testimonial-item item">
                         <i class="fa fa-quote-right testimonial-icon gradient-text1"></i>
-                        <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in velit dolor.
-                            Vivamus gravida, neque nec interdum cursus, erat ligula porta nibh.
+                        <p class="mb-4">Sus ofertas y promociones hacen que la app sea fascinante.
                         </p>
 
                         <!--Image-->
                         <div class="testimonial-image">
-                            <img src="restaurant/img/testimonial-1.png" alt="image">
+                            <img src="restaurant/img/UserKitoAppfemale.svg" alt="image">
                         </div>
-                        <h5 class="font-weight-500 main-font pink">David Gover</h5>
-                        <span class="destination main-font">Newyork, USA</span>
+                        <h5 class="font-weight-500 main-font pink">Usuario anonimo</h5>
+                      <!--  <span class="destination main-font">Newyork, USA</span>  -->
                     </div>
 
                 </div>
@@ -998,19 +996,18 @@
                 <div class="col-md-6 order-2 wow fadeInRight">
                     <!--Blog Content-->
                     <div class="blog-text blog-right">
-                        <h2>Full of Spices & Taste</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in velit dolor. Vivamus gravida,
-                            neque nec interdum cursus, erat ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                        <a href="restaurant/blog-listing.html" class="btn btn-rounded btn-large btn-green fadeInDown-slide animated  text-uppercase">Learn More</a>
+                        <h2>Descarga Kito App</h2>
+                        <p>En nuestra app encontrarás increibles promociones y ofertas en nuestros servicios de delivery, descargala ahora.</p>
+                        <a href="restaurant/blog-listing.html" class="btn btn-rounded btn-large btn-green fadeInDown-slide animated  text-uppercase">Descargar</a>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <!--Blog Image-->
                     <div class="img-hvr">
                         <div class="date">
-                            <h5 class="m-0">20</h5>
-                            <h5 class="m-0">Feb</h5>
-                            <h5 class="m-0">2020</h5>
+                            <h5 class="m-0">Descarga</h5>
+                            <h5 class="m-0">Kito</h5>
+                            <h5 class="m-0">App</h5>
                         </div>
                     </div>
                     <div id="blog-slider" class=" owl-carousel">
@@ -1027,10 +1024,10 @@
                     </div>
                 </div>
             </div>
-
+            <!-- 
             <div class="row align-items-center">
                 <div class="col-md-6 order-2 order-md-1 wow fadeInLeft">
-                    <!--Blog Content-->
+                 
                     <div class="blog-text">
                             <h2>Midnight Deals</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus in velit dolor. Vivamus gravida,
@@ -1046,7 +1043,7 @@
                             <h5 class="m-0">2020</h5>
                         </div>
                     </div>
-                    <!--Blog Image-->
+                   <--Blog Image
                     <div id="blog-slider-1" class="owl-carousel">
                     <div class="item blog-image2 text-right hover-effect wow fadeInRight">
                         <img src="restaurant/img/blog-image2.jpg" alt="image">
@@ -1060,7 +1057,7 @@
                     </div>
                 </div>
             </div>
-
+            -->
         </div>
     </section>
     <!--Blog End-->
@@ -1079,7 +1076,7 @@
                         <!--overlay-->
                         <div class="bg-overlay opacity-8"></div>
                         <div class="address-text alt-font text-md-left text-white position-relative wow fadeInUp">
-                            <h5 class="mb-3 text-capitalize contact-subtitle font-weight-light">Lorem ipsum dolor sit amet consectetur</h5>
+                            <h5 class="mb-3 text-capitalize contact-subtitle font-weight-light">Ubicación Kito App</h5>
                             <!--title-->
                             <h2 class="mb-4 main-font map-text text-capitalize">Kito App</h2>
                             <!--Address-->
