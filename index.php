@@ -674,8 +674,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <div class="department-sub alt-font text-center"><h5 class="pink profession">We Are Professionals</h5></div>
-                    <div class="department-title main-font text-center"><h2 class="grey">Our Specialties</h2></div>
+                    <div class="department-sub alt-font text-center"><h5 class="pink profession">Somos profesionales</h5></div>
+                    <div class="department-title main-font text-center"><h2 class="grey">Nuestras especialidades</h2></div>
 
                 </div>
             </div>
